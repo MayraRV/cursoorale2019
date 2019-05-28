@@ -1,0 +1,27 @@
+#cuadro1 {
+    background-color: white;   
+}
+
+.cuadro1-container {
+    background-color: skyblue;
+    width: auto;
+    height: 100px;
+}
+
+.cuadro2-container {
+    background-color: pink;
+    width: auto;
+    height: 100px;
+}
+
+.cuadro3-container {
+    background-color: peru;
+    width: auto;
+    height: 100px;
+}
+
+.cuadro4-container {
+    background-color: khaki;
+    width: auto;
+    height: 100px;
+}
